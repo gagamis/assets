@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1083px" height="1079px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1097 1093"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:white;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:white;stroke-width:18;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#F59C17}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_105553422550240">
+   <rect class="fil0" width="1097" height="1093" rx="179" ry="179"/>
+   <polygon class="fil1 str0" points="257,549 254,909 568,910 569,544 733,544 737,910 837,913 835,547 930,548 546,165 160,550 "/>
+   <rect class="fil1 str1" x="104" y="101" width="879" height="893" rx="88" ry="89"/>
+   <rect class="fil0 str2" x="338" y="540" width="155" height="132" rx="5" ry="7"/>
+  </g>
+ </g>
+</svg>
